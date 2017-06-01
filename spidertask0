@@ -5,6 +5,10 @@
 </head>
 <body>
 <h1>SPIDER TASK O </h1>
-font-color:rgba(123,56,76,.2);
 </body>
+<style>
+body{
+font-color:rgb(56,183,78);
+}
+</style>
 </html>
